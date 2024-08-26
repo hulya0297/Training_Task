@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #6863FFFF;
+    
+}
+.wrapper{
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.productNamePrice{
+    width: 700px;
+    height: 500px;
+    background-color: antiquewhite;
+    padding-top: 50px;
+    
+   
+    
+   
+}
+
+.productNamePriceForm{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.product{
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    padding: 0px 10px;
+    outline: none   ;
+    border: none;
+    background-color: #E6E6E6FF;
+    cursor: pointer;
+}
+.productAdd{
+    width: 100px;
+    height: 30px;
+    background-color: #6378FDFF;
+    color: #E6E6E6FF;
+    border: none;
+   
+}
+.productAdd:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.addedProduct{
+    
+    width: 500px;
+    height: 100hv;
+    margin-left: 90px;
+    padding: 0px 10px;
+    outline: none   ;
+    border: none;
+    background-color: #E6E6E6FF;
+    cursor: pointer;
+     margin-top: 50px;
+     
+
+}
+
+
+
+
